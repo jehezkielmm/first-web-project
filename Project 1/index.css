@@ -1,0 +1,88 @@
+body{
+	font-family:Default;
+	background-image: url(bege.jpg)
+}
+h3{
+	line-height: 1.3em;
+}
+img{
+	width: 300px;
+	height: auto;
+	border-radius: 400px;
+
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	align-items: center;
+	display: inline-block;
+}
+li{
+	display: inline-block;
+}
+
+footer.footerindex{
+	margin-top: 80px;
+}
+footer.footerpictures{
+	margin-top: 385px;
+}
+
+small {
+    bottom: 2px;
+    position: absolute;	
+    align-content: center;	
+    margin: auto;
+}
+
+#asd{
+	font-size: 60px;
+	font-style: bold;
+	font-family: monospace;
+	margin-top: 50px;
+}
+.button{
+    background-color: white;
+    border: bold;
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20% 20% 20% 20%;}
+
+table{
+	font-family: default;
+	font-size: 30px;
+	border-collapse: collapse;
+	border-spacing: 100px;
+}
+#okay{
+	font-size: 20px;
+}
+.navbar{
+	background-color: transparent;
+}
+#contactheader{
+	font-family: default;
+	font-size: 60px;
+	margin-top: 100px;
+	padding-top: 50px;
+}
+body div.media{
+	size: 40px;
+	list-style: none;
+	display: block;
+	font-size: 200px;
+	padding: 20px;
+	border-radius: 50%;
+	transition: 0.5s;
+	margin-top: 0px;
+}
+
+div.media li{
+	margin: 120px;
+}
+
+
+
+
